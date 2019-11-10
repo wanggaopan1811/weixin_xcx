@@ -1,0 +1,77 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"compileType": "miniprogram",
+	"libVersion": "1.9.94",
+	"appid": "wxbb15295a0a032ac3",
+	"projectname": "mina",
+	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 3,
+			"list": [
+				{
+					"id": 0,
+					"name": "index",
+					"pathName": "pages/food/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "address",
+					"pathName": "pages/my/addressSet",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "111",
+					"pathName": "pages/cart/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "dd",
+					"pathName": "pages/my/order_list",
+					"scene": null
+				}
+			]
+		}
+	}
+}
